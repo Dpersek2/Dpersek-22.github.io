@@ -14,9 +14,9 @@ const Header = () => {
         className='w-6'/> </h3>
 
     <h1 className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo'>
-    Aspiring Web Developer!</h1>
+    Aspiring Web/App Developer!</h1>
     <p className='max-w-2xl mx-auto front-Ovo'>
-        I am an aspiring web developer from Seal Beach California, currently an enrolled
+        I am an aspiring web/application developer from Seal Beach California, currently an enrolled
         junior computer science student at High Point University! 
         </p>
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'> 

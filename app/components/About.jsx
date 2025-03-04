@@ -17,8 +17,8 @@ const About = () => {
         </div>
     <div className= 'flex-1'>
         <p className='text-lg font-Ovo' >
-        I am an aspiring web developer and currently a junior at High Point University,
-        areas that interest me are the financial and automotive industries. I am looking for internships
+        I am an aspiring web/application developer and currently a junior at High Point University,
+        areas that interest me are the financial,automotive, and oil industries. I am looking for internships
         and opportunities to grow my skills and knowledge in the field of web development 
         and application development alike.
         </p>
