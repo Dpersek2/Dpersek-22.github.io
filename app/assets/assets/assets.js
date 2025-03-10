@@ -39,6 +39,7 @@ import logoGD from './logoGD.png';
 import portraitGD from './portraitGD.png';
 import profileGD from './profileGD.png';
 
+
 export const assets = {
     user_image,
     code_icon,
@@ -79,29 +80,31 @@ export const assets = {
     right_arrow_bold_dark,
     logoGD,
     portraitGD,
-    profileGD
+    profileGD,
+    
+
 };
 
 export const workData = [
     {
         title: 'Streamlit App',
         description: 'Interactive Inventory Management ',
-        bgImage: '/work-1.png',
+        bgImage: '/ptcs.png',
     },
     {
         title: 'Finance Genie',
         description: 'Student Oriented Finance App',
-        bgImage: '/work-2.png',
+        bgImage: '/fingenie.png',
     },
     {
         title: 'SurfCityBricks',
         description: 'Entrepreneurial Venture',
-        bgImage: '/work-3.png',
+        bgImage: '/surfcitybricks.png',
     },
     {
         title: 'High Point University Entrepreneurship Club',
         description: 'VP of Finance',
-        bgImage: '/work-4.png',
+        bgImage: './eclub.png',
     },
 ]
 
@@ -114,8 +117,8 @@ export const serviceData = [
 
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Computer Science' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.S in Computer Science' },
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 4 projects' }
 ];
 
 export const toolsData = [
