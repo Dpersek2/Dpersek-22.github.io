@@ -104,7 +104,7 @@ export const workData = [
     {
         title: 'High Point University Entrepreneurship Club',
         description: 'VP of Finance',
-        bgImage: './eclub.png',
+        bgImage: '/eclub.png',
     },
 ]
 
